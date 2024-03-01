@@ -17,6 +17,12 @@ public class Main {
             Scanner scanner = new Scanner(System.in);
             String input = scanner.nextLine();
 
+            // check if the input is in the list
+            if (java.util.Arrays.asList(possibleColors).contains(input.toLowerCase()) == false) {
+                System.out.println("The color you have chosen is not in the list");
+                continue;
+            }
+
             // check if the input is correct (ignore case)
             if (input.toLowerCase().equals(solution)) {
                 System.out.println("You are correct");
