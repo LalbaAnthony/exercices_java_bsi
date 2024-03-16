@@ -7,7 +7,7 @@ public class ListeComptes {
 
         // Fill the comptes array with
         for (int i = 0; i < comptes.length; i++) {
-            comptes[i] = new Compte();
+            comptes[i] = new Compte("Compte " + i, 0);
             comptes[i].deposer(200);
             comptes[i].deposer(i * 100);
             comptes[i].afficher();
