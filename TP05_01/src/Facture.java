@@ -13,6 +13,32 @@ public class Facture {
         this.numero = numero;
     }
 
+    // GETTERS
+    public List<Article> getContenu() {
+        return this.contenu;
+    }
+
+    public int getNumero() {
+        return this.numero;
+    }
+
+    public boolean getIsValidee() {
+        return this.isvalidee;
+    }
+
+    // SETTERS
+    public void setContenu(List<Article> contenu) {
+        this.contenu = contenu;
+    }
+
+    public void setNumero(int numero) {
+        this.numero = numero;
+    }
+
+    public void setIsValidee(boolean isvalidee) {
+        this.isvalidee = isvalidee;
+    }
+
     public void add(Article art) throws FactureException {
         if (this.isvalidee) {
             throw new FactureException("la facture est déja validée");
