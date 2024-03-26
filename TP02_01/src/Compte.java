@@ -3,8 +3,8 @@ class Compte {
     private int solde = 0;
 
     Compte(String nom, int solde) {
-        this.nom = nom;
-        this.solde = solde;
+        setNom(nom);
+        setSolde(solde);
     }
 
     // ======== NOM ========

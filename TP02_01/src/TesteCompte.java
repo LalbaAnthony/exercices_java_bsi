@@ -2,8 +2,8 @@
 public class TesteCompte {
     public static void main(String[] args) {
 
-        Compte c1 = new Compte('A', 0); // 'A' est le nom du compte, 500 est le solde initial.
-        Compte c2 = new Compte('B', 0); // 'B' est le nom du compte, 1000 est le solde initial.
+        Compte c1 = new Compte("Premier compte", 0);
+        Compte c2 = new Compte("Deuxieme compte", 0);
 
         // dépôt de 500 euros sur le premier compte
         c1.deposer(500);
