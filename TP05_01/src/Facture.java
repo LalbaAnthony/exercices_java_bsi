@@ -1,6 +1,4 @@
-package fr.nowhack.metier;
 
-import fr.nowhack.utils.FactureException;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.List;

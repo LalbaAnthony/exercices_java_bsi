@@ -1,4 +1,3 @@
-package fr.nowhack.metier;
 
 public class Article {
     private String nomArticle;
