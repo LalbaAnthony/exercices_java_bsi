@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d40e5063-7e6a-4bae-ab6e-094d009f0b03" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../TP03_01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP03_01/TP06_02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP03_01/TP06_02/out/production/TP06_01/Article.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP03_01/TP06_02/out/production/TP06_01/Facture.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP03_01/TP06_02/out/production/TP06_01/FactureException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP03_01/TP06_02/out/production/TP06_01/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP03_01/TP06_02/src/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP03_01/TP06_02/src/Facture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP03_01/TP06_02/src/FactureException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP03_01/TP06_02/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP03_01/out/production/TP06_01/Article.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP03_01/out/production/TP06_01/Facture.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP03_01/out/production/TP06_01/FactureException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP03_01/out/production/TP06_01/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP03_01/src/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP03_01/src/Facture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP03_01/src/FactureException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP03_01/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/Facture.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/TP06_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/allclasses-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/allpackages-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/copy.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/element-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/index-files/index-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/index-files/index-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/index-files/index-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/legal/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/legal/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/legal/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/legal/jquery.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/legal/jqueryUI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/member-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/module-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/package-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/resources/glass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/resources/x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/script-dir/jquery-3.6.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/script-dir/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/script-dir/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/search-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/tag-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TP06_01/javadoc/type-search-index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TP06_01/Article.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TP06_01/Facture.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TP06_01/FactureException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TP06_01/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactureException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP06_01/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP06_01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP06_01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP06_01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP06_01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TP06_01/TP06_01.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2eEHUX3HnWKznff51KAaXKbpQRd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/projects/exercices_java_bsi/TP03_01",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d40e5063-7e6a-4bae-ab6e-094d009f0b03" name="Changes" comment="" />
+      <created>1711462832651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711462832651</updated>
+      <workItem from="1711462833662" duration="865000" />
+      <workItem from="1711700009914" duration="305000" />
+      <workItem from="1711700634381" duration="655000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
